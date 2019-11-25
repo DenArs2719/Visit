@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1574678959 source:c:\users\yevse\desktop\projects to cv\vis\main.cpp
+	"doctor.h"
+	"reception.h"
+	"pacjent.h"
+	"list.h"
+
+1574624855 source:c:\users\yevse\desktop\projects to cv\vis\pacjent.cpp
+	"pacjent.h"
+
+1574631643 source:c:\users\yevse\desktop\projects to cv\vis\doctor.cpp
+	"doctor.h"
+	"pacjent.h"
+
+1574610676 c:\users\yevse\desktop\projects to cv\vis\doctor.h
+	"pacjent.h"
+	<string>
+	<iostream>
+
+1574624850 c:\users\yevse\desktop\projects to cv\vis\pacjent.h
+	<iostream>
+	<string>
+	<fstream>
+
+1574631725 c:\users\yevse\desktop\projects to cv\vis\reception.h
+	"doctor.h"
+	"pacjent.h"
+
+1574624789 c:\users\yevse\desktop\projects to cv\vis\list.h
+
